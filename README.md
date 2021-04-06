@@ -2,22 +2,8 @@
 
 ## About Me:
 Computational Physicist with 10+ years of experience in programming and scientific computing. Proficient in system modeling and validation. Expert in force field development and molecular dynamics simulations (equilibrium and non-equilibrium). Solid understanding of object-oriented programming and software development. Highly motivated to learn new skills.
-## ✉️ Find me on:
-<p align="center">
- <a href="https://github.com/Hemanta-Bhattarai/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/hemantab/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:hbhattar@nd.edu"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-<br />
 
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" height="40" style="vertical-align:top; margin:4px"> -->
-</p>
-
-## Repo
+## Repositories :
 1. [**dotFile**](https://github.com/Hemanta-Bhattarai/dotFile) : Configuration file for vim, tmux, bash shell.
 2. [**OpenMD**](https://github.com/OpenMD/OpenMD): [OpenMD](http://openmd.org) is open source molecular dynamics engine maintained by [Gezelter lab](http://gezelterlab.org). It is written in C++ and Python. Basic required files to run the simulation using openmd are force field file `file_name.frc` and system file `system_name.omd`. The forcefield file contains all the information about the force field parameters used during simulations and .omd file contain the information about the system and ensemble used.
 3. [**GOBAD1.0**](https://github.com/Hemanta-Bhattarai/GOBAD1.0): GOBAD1.0 is a package written in matlab and bash to analyze astronomical data to study the evolution of universe using spatial orientation of angular momentum of galaxies in a cluster.
@@ -50,6 +36,20 @@ Computational Physicist with 10+ years of experience in programming and scientif
     f. [**SQL**](https://github.com/Hemanta-Bhattarai/Self_Learning/tree/master/SQL): Basic implementation of SQL.
 
 6. [**Research**](https://github.com/Hemanta-Bhattarai/Research): Analysis scripts written in python and jupyter notebook for graduate research work.
+
+## ✉️  Find me on:
+<p align="center">
+ <a href="https://github.com/Hemanta-Bhattarai/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/hemantab/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:hbhattar@nd.edu"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
+<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" height="40" style="vertical-align:top; margin:4px"> -->
+</p>
 
 
 
