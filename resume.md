@@ -1,3 +1,5 @@
+[&#9664; Profile](https://github.com/Hemanta-Bhattarai)
+
 # Hemanta Bhattarai
 
 215 Foxfire Dr. Apt 305, Oxford, OH 45056 hbhattar@nd.edu 574-298-4153
