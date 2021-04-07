@@ -3,6 +3,8 @@
 ## About Me:
 Computational Physicist with 10+ years of experience in programming and scientific computing. Proficient in system modeling and validation. Expert in force field development and molecular dynamics simulations (equilibrium and non-equilibrium). Solid understanding of object-oriented programming and software development. Highly motivated to learn new skills.
 
+[Hemanta Bhattarai Resume](https://github.com/Hemanta-Bhattarai/Hemanta-Bhattarai/blob/main/resume.md)
+
 ## Repositories :
 1. [**dotFile**](https://github.com/Hemanta-Bhattarai/dotFile) : Configuration file for vim, tmux, bash shell.
 2. [**OpenMD**](https://github.com/OpenMD/OpenMD): [OpenMD](http://openmd.org) is open source molecular dynamics engine maintained by [Gezelter lab](http://gezelterlab.org). It is written in C++ and Python. Basic required files to run the simulation using openmd are force field file `file_name.frc` and system file `system_name.omd`. The forcefield file contains all the information about the force field parameters used during simulations and .omd file contain the information about the system and ensemble used.
