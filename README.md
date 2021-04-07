@@ -1,7 +1,7 @@
 # Hemanta Bhattarai's Repositories
 
 ## About Me:
-Computational Physicist with 10+ years of experience in programming and scientific computing. Proficient in system modeling and validation. Expert in force field development and molecular dynamics simulations (equilibrium and non-equilibrium). Solid understanding of object-oriented programming and software development. Highly motivated to learn new skills.
+Computational Physicist with 10+ years of experience in programming and scientific computing. Proficient in system modeling and validation. Expert in force field development and molecular dynamics simulations (equilibrium and non-equilibrium). Solid understanding of object-oriented programming and software development. Highly motivated to learn new skills.[cv](https://github.com/Hemanta-Bhattarai/Hemanta-Bhattarai/blob/main/cv.pdf)
 
 ## Repositories :
 1. [**dotFile**](https://github.com/Hemanta-Bhattarai/dotFile) : Configuration file for vim, tmux, bash shell.
