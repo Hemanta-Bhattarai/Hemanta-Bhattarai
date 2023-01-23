@@ -33,7 +33,7 @@ Computational Physicist with 10+ years of experience in programming and scientif
 
     c. [**Django**](https://github.com/Hemanta-Bhattarai/Self_Learning/tree/master/Django): Diet track webpage developed using django. It has capabilty to store the information of user logged in using a username.
 
-    d. [**Pi Using Bash**](): It is a bash script which uses most frequently used syntax in bash script to determine the value of pi. It can be used as all in one cheat sheet to review syntax used in bash scripting.
+    d. [**Pi Using Bash**](https://github.com/Hemanta-Bhattarai/Self_Learning/tree/master/PiUsingBash): It is a bash script which uses most frequently used syntax in bash script to determine the value of pi. It can be used as all in one cheat sheet to review syntax used in bash scripting.
 
     e. [**Some advanced concepts of Python**](https://github.com/Hemanta-Bhattarai/Self_Learning): Implementation of decorators, static method, class methods and magic methods.
 
